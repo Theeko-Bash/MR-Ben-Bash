@@ -7,7 +7,8 @@
 <p><code>I love programming!</code></p>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px" height="150px"/>
 
-⚡ Fun fact:
+
 - 🔭 I’m currently working on something coooool.
 - 👯 I’m looking to collaborate on IOT projects.
 - 🌱 I’m currently learning Python, C++, and, Javascript which helps me in IOT projects.
+- ⚡ Fun fact: I love food! I eat alot...
